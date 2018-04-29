@@ -1,0 +1,9 @@
+F:\C#\Fool Game\Fool Game\bin\Debug\Fool Game.exe.config
+F:\C#\Fool Game\Fool Game\bin\Debug\Fool Game.exe
+F:\C#\Fool Game\Fool Game\bin\Debug\Fool Game.pdb
+F:\C#\Fool Game\Fool Game\obj\Debug\Fool Game.csprojResolveAssemblyReference.cache
+F:\C#\Fool Game\Fool Game\obj\Debug\Fool_Game.FoolGame.resources
+F:\C#\Fool Game\Fool Game\obj\Debug\Fool_Game.Properties.Resources.resources
+F:\C#\Fool Game\Fool Game\obj\Debug\Fool Game.csproj.GenerateResource.Cache
+F:\C#\Fool Game\Fool Game\obj\Debug\Fool Game.exe
+F:\C#\Fool Game\Fool Game\obj\Debug\Fool Game.pdb
